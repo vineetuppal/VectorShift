@@ -2,6 +2,14 @@
 
 This repository contains my implementation of the VectorShift full-stack technical project. The project includes a React-based frontend and a Python FastAPI backend, demonstrating node abstraction, styling, text node logic, and backend integration.
 
+## Screenshots 📸
+
+![vectorshift_01](https://github.com/user-attachments/assets/f6907ea5-7670-4845-9681-d58b7e79e856)
+
+![vectorshift_02](https://github.com/user-attachments/assets/0fb988f7-9b76-491a-b708-174a28c2a3c7)
+
+
+
 ## Features
 
 ### 1. Node Abstraction
